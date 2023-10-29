@@ -91,6 +91,7 @@ a[href] {
   color: inherit;
   font-family: inherit;
 }
+
 .content__blockquote {
   color: var(--text-color);
   font-family: var(--main-font, sans-serif);
@@ -245,6 +246,7 @@ li:not(.content__list.content__list-item:last-of-type) {
   cursor: pointer;
   background-color: transparent;
 }
+
 .header__theme-button_type_light {
   color: inherit;
   font-size: 18px;
@@ -280,6 +282,7 @@ a[href]:focus-visible {
   justify-content: center;
   align-items: center;
 }
+
 .footer__copyright {
   color: currentColor;
   font-family: var(--main-font, sans-serif);
